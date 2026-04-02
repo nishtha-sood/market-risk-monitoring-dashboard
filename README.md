@@ -15,7 +15,7 @@ Built an interactive Tableau dashboard with Python data pipeline for monitoring 
 - Tableau Public for interactive dashboard
 
 ### Live Dashboard
-[View on Tableau Public](PASTE YOUR LINK HERE)
+[View on Tableau Public] : https://public.tableau.com/app/profile/nishtha.sood/viz/MarketRiskMonitoringDashboardNishthaSood/PrototypeRatesMarketRiskMonitoringDashboard?publish=yes
 
 ### Why This Project?
 Matches the JD requirement to “build an enhanced risk monitoring framework” and “pro-actively bring threats and weaknesses to the attention of the trading business.” Demonstrates ability to deliver visual risk advisory tools for the North America Rates desk.
