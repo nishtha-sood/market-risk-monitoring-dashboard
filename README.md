@@ -1,8 +1,6 @@
 # Interactive Market Risk Monitoring Dashboard (Tableau + Python)
 
-**Project for JPMorgan Chase – North America Rates Market Risk Associate Role**
-
-Built an interactive Tableau dashboard with Python data pipeline for monitoring a multi-asset Rates portfolio. Includes real-time risk metrics, threat alerts, and stress scenario analysis.
+Built an interactive Tableau dashboard with a Python data pipeline for monitoring a multi-asset rates portfolio. Includes real-time risk metrics, threat alerts, and stress scenario analysis.
 
 ### Features
 - Portfolio P&L and VaR trends with rolling calculations
@@ -15,7 +13,7 @@ Built an interactive Tableau dashboard with Python data pipeline for monitoring 
 - Tableau Public for interactive dashboard
 
 ### Live Dashboard
-View on Tableau Public : https://public.tableau.com/app/profile/nishtha.sood/viz/MarketRiskMonitoringDashboardNishthaSood/PrototypeRatesMarketRiskMonitoringDashboard?publish=yes
+[View on Tableau Public](https://public.tableau.com/app/profile/nishtha.sood/viz/MarketRiskMonitoringDashboardNishthaSood/PrototypeRatesMarketRiskMonitoringDashboard)
 
 ## Dashboard Preview
 
